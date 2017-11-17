@@ -1,5 +1,7 @@
 package edu.uopeople.cs1102;
 
+import edu.uopeople.util.TextIO;
+
 /**
  * Assignment: Programming Assignment Unit 3
  * Class: programming 1 - Group D
