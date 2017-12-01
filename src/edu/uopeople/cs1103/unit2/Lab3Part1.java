@@ -21,6 +21,7 @@ public class Lab3Part1 {
 		random.makeSentence();
 	}
 
+
 	/**
 	 * this class will help generate a random sentence.
 	 * Call makeSentence() to generate a random sentence.
