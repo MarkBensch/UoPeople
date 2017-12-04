@@ -77,8 +77,8 @@ public class TuringMachine {
 				tape.moveLeft();
 			else
 				tape.moveRight();
-//			System.out.println(applicableRule.currentState + " "+ applicableRule.currentContent 
-//					+ " " +applicableRule.newState + " " +applicableRule.newContent 
+//			System.out.println(applicableRule.currentState + " "+ applicableRule.currentContent
+//					+ " " +applicableRule.newState + " " +applicableRule.newContent
 //					+ " " +applicableRule.moveLeft);  // for testing.
 		}
 		return tape.getTapeContents();
