@@ -62,7 +62,7 @@ public class Tape {
 			navigate = navigate.next;
 		}
 		content.append( navigate.content );
-		return content.toString();
+		return content.toString().trim();
 	}
 
 	/**
